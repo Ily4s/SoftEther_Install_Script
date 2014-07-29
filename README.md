@@ -24,7 +24,7 @@ Support
 
 Notes
 -----
-- As I might not continute to update this script, it should be a good idea to update the URL on line 8 and file name on line 11
+- As I might not continute to update this script, it should be a good idea to update the URL on line 8 and file name on line 11 from http://www.softether-download.com/files/softether/
 - IPv6 support can be added if you configure the DHCP server and iptables yourself
 - Don't enable DNS traversing as it will conflict with the DHCP server
 - If the speeds are slow, try lowering encryption settings
