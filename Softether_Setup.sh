@@ -60,7 +60,7 @@ sleep 5
 #Download and Install Config
 /etc/init.d/vpnserver stop
 yes | rm vpn_server.config
-curl $ http://hastebin.com/raw/vetolajiyu.txt > vpn_server.config
+curl $ https://raw.githubusercontent.com/SpotComms/SoftEther_Install_Script/master/vpn_server.config > vpn_server.config
 chmod 600 vpn_server.config
 sleep 5
 /etc/init.d/vpnserver start
