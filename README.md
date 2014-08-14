@@ -30,7 +30,7 @@ Notes
 - If the speeds are slow, try lowering encryption settings
 
 Credits
-------
+-------
 - https://www.softether.org
 - https://www.digitalocean.com/community/tutorials/how-to-setup-a-multi-protocol-vpn-server-using-softether
 - http://blog.lincoln.hk/blog/2013/05/17/softether-on-vps-using-local-bridge
